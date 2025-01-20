@@ -16,7 +16,7 @@ Google Chrome uses AES-128-CBC to encrypt / decrypt password kept in the SQLite 
 
 The AES key $DK$ is built as follows:
 
-$ DK = PBKDF2(PRF, Password, Salt, c, dkLen)$
+$DK = PBKDF2(PRF, Password, Salt, c, dkLen)$
 
 where
 
