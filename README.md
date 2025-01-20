@@ -11,7 +11,7 @@ It is sufficient to obtain the required data from a backup, the device you are r
 This means you can easily pull the required data from a Timemachine backup for example.
 
 ## Introduction / HowTo
-This is a very basic implementation and it offers not comfort. You will have to do most of the data gathering yourself. This is however intended. I created this script, as I was looking for a tool that would not heavily interact with my system, while trying to recover saved passwords from a Backup.
+This is a very basic implementation and it offers no comforts. You will have to do most of the data gathering yourself. This is however intended. I created this script, as I was looking for a tool that would not heavily interact with my system, while trying to recover saved passwords from a Backup.
 Google Chrome uses AES-128-CBC to encrypt / decrypt password kept in the SQLite database.
 
 The AES key $DK$ is built as follows:
