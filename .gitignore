@@ -1,0 +1,10 @@
+Login*Data
+login.keychain-db
+*.sqlite
+*.db
+*.sqlite3
+*.db3
+*.s3db
+*.sl3
+*.keychain-db
+.idea/
