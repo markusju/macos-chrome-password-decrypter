@@ -69,7 +69,7 @@ Please provide the encrypted password as a hex string. String must be 19 bytes l
 Enter with or without spaces. For example: 'de ad be ef ...' or 'deadbeef ...'
 Enter Hex Dump: 76 31 30 5A 76 E0 48 85 E3 D6 A0  13 2D 42 C7 BE B7 4A B1
 ```
-After pressing `ENTER, the decoded password will be shown:
+After pressing `ENTER`, the decoded password will be shown:
 ```
 Password: TextMustBe16Byte
 ```
