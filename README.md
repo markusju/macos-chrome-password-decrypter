@@ -26,6 +26,9 @@ where
 - c = 1003 (Number of iterations)
 - dkLen = 128 bit
 
+You can find this information in the Chromium Source Code:
+https://source.chromium.org/chromium/chromium/src/+/main:components/os_crypt/sync/os_crypt_mac.mm
+
 ### Gathering Files
 From a backup or currently running system, you will need to recover the following files:
 
